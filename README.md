@@ -37,11 +37,11 @@
 <div align="center">
   
 <a href="https://github.com/ironn0">
-  <img src="https://github-readme-stats.vercel.app/api?username=ironn0&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ironn0&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </a>
 
 <a href="https://github.com/ironn0">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ironn0&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ironn0&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </a>
 
 <a href="https://github.com/ironn0">
